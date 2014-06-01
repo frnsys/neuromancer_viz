@@ -1,0 +1,27 @@
+{
+  "name": "neuromancer",
+  "licenses": [
+    "MIT"
+  ],
+  "version": "0.0.1",
+  "description": "experience the net as it was meant to be!",
+  "author": "Francis Tseng <@frnsys>",
+  "dependencies": {
+    "coremidi": "0.1.x",
+    "geoip-lite": "1.1.x",
+    "http-string-parser": "0.0.4",
+    "pcap": "1.0.x",
+    "request": "*"
+  },
+  "engines": {
+    "node": "0.10.x",
+    "npm": "1.3.x"
+  },
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "coming soon"
+  }
+}
